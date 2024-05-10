@@ -15,17 +15,17 @@
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
-  },
+  }, "api":"https://noobs-api.onrender.com/dipto",
   "adminBot": [
-    "61553436962117"
+    "100043588132979"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ↈ༈ 𝘿𝘼𝙍𝙆𝙉𝙀𝙎𝙎 ༈ↈ",
-  "prefix": "∆",
+  "nickNameBot": "ↈ༈ S A K U R A ༈ↈ",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
